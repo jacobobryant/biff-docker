@@ -1,0 +1,12 @@
+/.cpcache
+/.nrepl-port
+/bin
+/config.sh
+/secrets.env
+/storage/
+/tailwindcss
+/target
+.calva/
+.clj-kondo/
+.lsp/
+.portal/
